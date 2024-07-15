@@ -1,12 +1,6 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_nothing_phone1",
-        "target_path":  "device/nothing/phone1",
-        "revision":     "uvite"
-    },
-    {
-        "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
         "revision":     "uvite-888"
